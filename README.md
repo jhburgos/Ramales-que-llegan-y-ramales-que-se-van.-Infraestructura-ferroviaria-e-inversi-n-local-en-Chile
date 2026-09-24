@@ -16,7 +16,8 @@
   * *Nota: Las regiones y comunas son extraídas de este sitio.*
 * **BCN Ley Chile:** [Levantamiento de vías por decreto](https://www.bcn.cl/leychile/consulta/listaresultadosimple?cadena=autoriza%20a%20la%20Empresa%20de%20los%20Ferrocarriles%20del%)
 * **Memoria Chilena:** [Levantamiento de vías por decreto (Documento PDF)](https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0059875.pdf)
-* **Información Financiera:** Memorias anuales. Son aproximadamente 20 documentos disponibles en la carpeta del proyecto.
+* **Información Financiera:** [Memorias anuales](https://notebook.google.com/notebook/1a3234b0-0a8d-4e9a-83f4-b2dbd6d6ebee?authuser=1). 
+Son aproximadamente 20 documentos disponibles en el link de notebooklm (no me dejo subirlos ni como zip) .
 * **Empresa de los Ferrocarriles del Estado (EFE):**
   * [Proyectos - Otros Desarrollos](https://www.efe.cl/proyectos/otros-desarrollos/)
   * [Nuestros Servicios](https://www.efe.cl/nuestros-servicios/)

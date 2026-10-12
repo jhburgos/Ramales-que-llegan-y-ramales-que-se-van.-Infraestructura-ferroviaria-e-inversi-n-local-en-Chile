@@ -8,6 +8,5 @@
 | Inactivo (Sin tráfico en la comuna) | La línea férrea física aún existe intacta (rieles instalados), pero el servicio se suspendió. Ningún tren transita por esa comuna hoy. |
 | Inactivo (Tramos levantados) | El servicio está suspendido. La infraestructura férrea existe de forma intermitente: hay sectores con rieles y otros donde la vía fue arrancada o robada (común en la Red Norte). |
 | Levantado | El ramal secundario fue clausurado y el Estado ordenó desmantelar y retirar el 100% de la infraestructura (rieles y durmientes) de la comuna. |
-## Fuentes y Datos de Elaboración
 
 
